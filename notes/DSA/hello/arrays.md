@@ -217,3 +217,5 @@ export class MyComponent {
 ```html
 <dx-data-grid *ngIf="isBrowser" [dataSource]="rows()" />
 ```
+
+![{FE18C5AD-604A-4AA2-B652-242948C74040}.png](.images/1776240123710-_FE18C5AD-604A-4AA2-B652-242948C74040_.png)
